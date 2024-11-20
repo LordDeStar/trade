@@ -1,0 +1,27 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: trade
+    ports:
+      - "3501:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  api:
+    image: mcr.microsoft.com/dotnet/aspnet:7.0
+    container_name: aspnet_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=trade;User=root;Password=1234;
+    ports:
+      - "3500:80" # Перенаправление порта 80 контейнера на порт 3500 хоста
+    depends_on:
+      - db
+
+volumes:
+  db_data:

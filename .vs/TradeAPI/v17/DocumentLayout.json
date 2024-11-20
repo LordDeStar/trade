@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TradeAPI\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TradeAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\tradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\tradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\tradeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\tradeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\models\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\models\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|c:\\users\\lorddestar\\desktop\\tradeapi\\tradeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79633DC6-8836-4323-861E-B08FB8CA1621}|TradeAPI\\TradeAPI.csproj|solutionrelative:tradeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TradeAPI\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\docker-compose.yml",
+              "RelativeToolTip": "TradeAPI\\docker-compose.yml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-20T13:19:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradeContext.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\TradeContext.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\TradeContext.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\TradeContext.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\TradeContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:16:43.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "TradeAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Dockerfile",
+              "RelativeToolTip": "TradeAPI\\Dockerfile",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T13:16:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeAPI",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\TradeAPI.csproj",
+              "RelativeDocumentMoniker": "TradeAPI\\TradeAPI.csproj",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\TradeAPI.csproj",
+              "RelativeToolTip": "TradeAPI\\TradeAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T13:15:09.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Mappers\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\Mappers\\ProductMapper.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Mappers\\ProductMapper.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\Mappers\\ProductMapper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orderproduct.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Orderproduct.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\Orderproduct.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Orderproduct.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\Orderproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Order.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Product.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\Product.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TradeAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\User.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Models\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Models\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "TradeAPI\\Models\\Mappers\\UserMapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TradeAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TradeAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwF0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:09.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TradeAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LordDeStar\\Desktop\\TradeAPI\\TradeAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TradeAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T13:15:09.318Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1479,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
